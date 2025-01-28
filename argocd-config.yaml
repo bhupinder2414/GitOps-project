@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/bhupinder2414/gitops-azure-project.git
+    repoURL: https://github.com/bhupinder2414/GitOps-project.git
     targetRevision: HEAD
     path: manifests
   destination:
