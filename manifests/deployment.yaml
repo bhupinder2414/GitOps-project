@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: gitops-app
-        image: bhup0006/sample-app:latest
+        image: bhup0006/gitops-app:latest
         ports:
         - containerPort: 80
         resources:
