@@ -1,5 +1,5 @@
 {
-    "name": "sample-app",
+    "name": "myapp-service",
     "version": "1.0.0",
     "description": "A sample Node.js app for GitOps demonstration.",
     "main": "app.js",
