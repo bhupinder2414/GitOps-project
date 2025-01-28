@@ -13,6 +13,6 @@ spec:
             pathType: Prefix
             backend:
               service:
-                name: gitops-app
+                name: gitops-app-service
                 port:
                   number: 80
