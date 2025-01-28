@@ -8,5 +8,5 @@ spec:
   ports:
     - protocol: TCP
       port: 80
-      targetPort: 3000  # Forward traffic to port 80 on the container
+      targetPort: 80  # Forward traffic to port 80 on the container
   type: LoadBalancer  # Expose it externally via a LoadBalancer (optional for cloud environments)
